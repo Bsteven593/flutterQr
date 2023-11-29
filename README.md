@@ -1,16 +1,4 @@
-# qr
+![image](https://github.com/Bsteven593/flutterQr/assets/110885930/0c576fec-b3a6-4acd-a6f3-2c461cf38eb2)
+![image](https://github.com/Bsteven593/flutterQr/assets/110885930/fcf44f08-12a2-410f-8e8b-7734efb12343)
+![image](https://github.com/Bsteven593/flutterQr/assets/110885930/bf703dd3-3746-427f-a88e-523010f6ad29)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
